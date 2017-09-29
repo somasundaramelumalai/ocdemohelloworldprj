@@ -129,3 +129,10 @@
 2017-09-28 15:06:29 FATAL HelloWorldAction:21 - This is fatal : 
 2017-09-28 15:06:29 INFO  HelloWorldAction:25 - dbUser before: Test
 2017-09-28 15:06:29 INFO  HelloWorldAction:29 - dbUser after : TestLocalDB
+2017-09-29 16:35:33 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-09-29 16:35:33 INFO  HelloWorldAction:16 - Info Mode : 
+2017-09-29 16:35:33 WARN  HelloWorldAction:19 - This is warn : 
+2017-09-29 16:35:33 ERROR HelloWorldAction:20 - This is error : 
+2017-09-29 16:35:33 FATAL HelloWorldAction:21 - This is fatal : 
+2017-09-29 16:35:33 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-09-29 16:35:33 INFO  HelloWorldAction:29 - dbUser after : TestLocalDB
