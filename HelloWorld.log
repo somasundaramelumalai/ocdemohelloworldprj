@@ -1,0 +1,131 @@
+2017-06-19 18:23:22 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-19 18:23:22 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-19 18:23:22 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-19 18:23:22 ERROR HelloWorldAction:18 - This is error : 
+2017-06-19 18:23:22 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-19 18:23:51 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-19 18:23:51 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-19 18:23:51 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-19 18:23:51 ERROR HelloWorldAction:18 - This is error : 
+2017-06-19 18:23:51 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 15:57:13 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 15:57:13 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 15:57:13 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 15:57:13 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 15:57:13 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:48:01 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:48:01 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:48:01 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:48:01 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:48:01 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:48:05 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:48:05 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:48:05 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:48:05 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:48:05 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:48:14 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:48:14 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:48:14 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:48:14 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:48:14 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:48:29 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:48:29 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:48:29 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:48:29 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:48:29 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:49:55 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:49:55 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:49:55 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:49:55 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:49:55 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:50:05 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:50:05 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:50:05 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:50:05 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:50:05 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:50:47 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:50:47 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:50:47 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:50:47 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:50:47 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:51:40 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:51:40 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:51:40 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:51:40 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:51:40 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:52:51 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:52:51 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:52:51 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:52:51 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:52:51 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:54:13 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:54:13 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:54:13 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:54:13 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:54:13 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:54:52 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:54:52 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:54:52 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:54:52 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:54:52 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-20 16:59:23 DEBUG HelloWorldAction:11 - Debug Mode  : 
+2017-06-20 16:59:23 INFO  HelloWorldAction:14 - Info Mode : 
+2017-06-20 16:59:23 WARN  HelloWorldAction:17 - This is warn : 
+2017-06-20 16:59:23 ERROR HelloWorldAction:18 - This is error : 
+2017-06-20 16:59:23 FATAL HelloWorldAction:19 - This is fatal : 
+2017-06-22 12:44:15 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-06-22 12:44:15 INFO  HelloWorldAction:16 - Info Mode : 
+2017-06-22 12:44:15 WARN  HelloWorldAction:19 - This is warn : 
+2017-06-22 12:44:15 ERROR HelloWorldAction:20 - This is error : 
+2017-06-22 12:44:15 FATAL HelloWorldAction:21 - This is fatal : 
+2017-06-22 12:44:15 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-06-22 12:44:15 INFO  HelloWorldAction:29 - dbUser after : null
+2017-07-05 14:21:35 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-07-05 14:21:35 INFO  HelloWorldAction:16 - Info Mode : 
+2017-07-05 14:21:35 WARN  HelloWorldAction:19 - This is warn : 
+2017-07-05 14:21:35 ERROR HelloWorldAction:20 - This is error : 
+2017-07-05 14:21:35 FATAL HelloWorldAction:21 - This is fatal : 
+2017-07-05 14:21:35 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-07-05 14:21:35 INFO  HelloWorldAction:29 - dbUser after : null
+2017-07-05 14:21:47 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-07-05 14:21:47 INFO  HelloWorldAction:16 - Info Mode : 
+2017-07-05 14:21:47 WARN  HelloWorldAction:19 - This is warn : 
+2017-07-05 14:21:47 ERROR HelloWorldAction:20 - This is error : 
+2017-07-05 14:21:47 FATAL HelloWorldAction:21 - This is fatal : 
+2017-07-05 14:21:47 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-07-05 14:21:47 INFO  HelloWorldAction:29 - dbUser after : null
+2017-07-05 15:47:10 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-07-05 15:47:10 INFO  HelloWorldAction:16 - Info Mode : 
+2017-07-05 15:47:10 WARN  HelloWorldAction:19 - This is warn : 
+2017-07-05 15:47:10 ERROR HelloWorldAction:20 - This is error : 
+2017-07-05 15:47:10 FATAL HelloWorldAction:21 - This is fatal : 
+2017-07-05 15:47:10 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-07-05 15:47:10 INFO  HelloWorldAction:29 - dbUser after : null
+2017-07-05 17:29:43 DEBUG HelloWorldAction:27 - Debug Mode  : 
+2017-07-05 17:29:43 INFO  HelloWorldAction:30 - Info Mode : 
+2017-07-05 17:29:43 WARN  HelloWorldAction:33 - This is warn : 
+2017-07-05 17:29:43 ERROR HelloWorldAction:34 - This is error : 
+2017-07-05 17:29:43 FATAL HelloWorldAction:35 - This is fatal : 
+2017-07-05 17:29:43 INFO  HelloWorldAction:39 - dbUser before: Test
+2017-07-05 17:29:43 INFO  HelloWorldAction:43 - dbUser after : null
+2017-09-28 14:11:20 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-09-28 14:11:20 INFO  HelloWorldAction:16 - Info Mode : 
+2017-09-28 14:11:20 WARN  HelloWorldAction:19 - This is warn : 
+2017-09-28 14:11:20 ERROR HelloWorldAction:20 - This is error : 
+2017-09-28 14:11:20 FATAL HelloWorldAction:21 - This is fatal : 
+2017-09-28 14:11:20 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-09-28 14:11:20 INFO  HelloWorldAction:29 - dbUser after : TestLocalDB
+2017-09-28 14:13:11 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-09-28 14:13:11 INFO  HelloWorldAction:16 - Info Mode : 
+2017-09-28 14:13:11 WARN  HelloWorldAction:19 - This is warn : 
+2017-09-28 14:13:11 ERROR HelloWorldAction:20 - This is error : 
+2017-09-28 14:13:11 FATAL HelloWorldAction:21 - This is fatal : 
+2017-09-28 14:13:11 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-09-28 14:13:11 INFO  HelloWorldAction:29 - dbUser after : TestLocalDB
+2017-09-28 15:06:29 DEBUG HelloWorldAction:13 - Debug Mode  : 
+2017-09-28 15:06:29 INFO  HelloWorldAction:16 - Info Mode : 
+2017-09-28 15:06:29 WARN  HelloWorldAction:19 - This is warn : 
+2017-09-28 15:06:29 ERROR HelloWorldAction:20 - This is error : 
+2017-09-28 15:06:29 FATAL HelloWorldAction:21 - This is fatal : 
+2017-09-28 15:06:29 INFO  HelloWorldAction:25 - dbUser before: Test
+2017-09-28 15:06:29 INFO  HelloWorldAction:29 - dbUser after : TestLocalDB

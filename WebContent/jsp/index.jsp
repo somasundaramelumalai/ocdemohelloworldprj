@@ -8,5 +8,8 @@
 </head>
 <body>
 <%= "Your test web application is running fine!" %>
+<%
+String userName = (String) request.getAttribute("dbUserName");
+%>
 </body>
 </html>
